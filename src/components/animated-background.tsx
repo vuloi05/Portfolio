@@ -28,7 +28,7 @@ const STATES = {
   },
   about: {
     desktop: {
-      scale: { x: 0.4, y: 0.4, z: 0.4 },
+      scale: { x: 0.5, y: 0.5, z: 0.5 },
       position: { x: 0, y: -40, z: 0 },
       rotation: {
         x: 0,
@@ -48,8 +48,8 @@ const STATES = {
   },
   skills: {
     desktop: {
-      scale: { x: 0.4, y: 0.4, z: 0.4 },
-      position: { x: 0, y: -40, z: 0 },
+      scale: { x: 0.3, y: 0.3, z: 0.3 },
+      position: { x: 0, y: -90, z: 0 },
       rotation: {
         x: 0,
         y: Math.PI / 12,
@@ -88,8 +88,8 @@ const STATES = {
   },
   contact: {
     desktop: {
-      scale: { x: 0.3, y: 0.3, z: 0.3 },
-      position: { x: 500, y: -250, z: 0 },
+      scale: { x: 0.2, y: 0.2, z: 0.2 },
+      position: { x: 500, y: -290, z: 0 },
       rotation: {
         x: 0,
         y: 0,
