@@ -70,7 +70,7 @@ export default function ChatbotPage() {
         className="flex-1 flex flex-col p-4 md:p-10 border-[.5px] rounded-2xl border-zinc-600 bg-zinc-900/50 relative overflow-hidden"
         style={{ backdropFilter: "blur(2px)" }}
       >
-        <h1 className="text-3xl mb-5 text-center font-bold text-zinc-100">Chat with Loi's AI</h1>
+        <h1 className="text-3xl mb-5 text-center font-bold text-zinc-100">Chat with Loi&apos;s AI</h1>
         
         {/* Khu vực hiển thị tin nhắn */}
         <div className="flex-1 overflow-y-auto pr-2 space-y-4 custom-scrollbar mb-4">
